@@ -16,7 +16,7 @@ This project recreates the clean and minimal design of Apple's official website,
 ---
 
 ## 🎥 Demo Video
-./demo.mp4
+[Website Preview video](demo.mp4)
 
 ---
 
